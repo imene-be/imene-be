@@ -25,9 +25,11 @@
 
 ## Développeuse dans l'exécution, designer dans la pensée.
 
-Je dessine depuis l'âge de quatre ans : d'abord des mangas, puis du graphisme, puis de la peinture. Puis le code est venu rejoindre le dessin.
+Je dessine depuis l'âge de quatre ans : mangas, graphisme, peinture. L'œil est venu bien avant le code.
 
-Je construis des applications React / Node.js, de la maquette Figma à la mise en ligne, en pensant chaque écran pour l'usage réel de ceux qui s'en servent. Mon regard d'illustratrice m'aide à soigner chaque interface, et mon Master Manager de Projets Informatiques m'apprend à cerner le besoin avant d'écrire la première ligne de code.
+Aujourd'hui, je construis des applications web comme on compose une image. Chaque écran est dessiné d'abord dans Figma, pensé pour celui qui s'en sert, puis écrit en React, Next.js et Node.js jusqu'à la mise en ligne.
+
+Mon regard d'illustratrice sait ce qu'on peut laisser de côté pour que l'essentiel demeure. Ma formation en gestion de projets informatiques cerne le besoin avant la première ligne de code.
 
 ```ts
 const imene = {
