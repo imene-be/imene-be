@@ -7,6 +7,8 @@
 
 <br>
 
+<b>Développeuse Full Stack React / Next.js / Node.js</b> · Apps web du Figma à la prod · UI/UX
+
 <i>Je crée avec sens, dessine avec intuition et développe avec exigence.</i>
 
 <br><br>
