@@ -69,25 +69,21 @@ Les autres projets (Narval, Chef Vertu, GoatUp, CineZone, TrajetIA) sont détail
 
 ## Boîte à outils
 
-<div align="center">
-
 **Front-end**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind&perline=8" alt="React, Next.js, JavaScript, Tailwind CSS">
+<img src="https://skillicons.dev/icons?i=react" width="42" alt="React" title="React">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nextjs" width="42" alt="Next.js" title="Next.js">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js" width="42" alt="JavaScript" title="JavaScript">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=tailwind" width="42" alt="Tailwind CSS" title="Tailwind CSS">
 
 **Back-end et données**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma&perline=8" alt="Node.js, Express, PostgreSQL, Prisma">
+<img src="https://skillicons.dev/icons?i=nodejs" width="42" alt="Node.js" title="Node.js">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=express" width="42" alt="Express" title="Express">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=postgres" width="42" alt="PostgreSQL" title="PostgreSQL">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=prisma" width="42" alt="Prisma" title="Prisma">
 
 **Outils**
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel&perline=8" alt="Git, GitHub, Vercel">
+<img src="https://skillicons.dev/icons?i=git" width="42" alt="Git" title="Git">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub" title="GitHub">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=vercel" width="42" alt="Vercel" title="Vercel">
 
 **Design**
 
-<img src="https://skillicons.dev/icons?i=figma,ai,ps&perline=8" alt="Figma, Illustrator, Photoshop">
-
-</div>
+<img src="https://skillicons.dev/icons?i=figma" width="42" alt="Figma" title="Figma">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ai" width="42" alt="Illustrator" title="Illustrator">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ps" width="42" alt="Photoshop" title="Photoshop">
 
 ## En ce moment
 
