@@ -45,63 +45,41 @@ const imene = {
 
 ## Sélection de projets
 
-<table>
-  <tr>
-    <td width="33%" valign="top"><b><a href="https://lucasvalkre.com">Lucas Valkre</a></b></td>
-    <td width="33%" valign="top"><b><a href="https://lnkd.in/dvFeDM-i">Modaïka</a></b></td>
-    <td width="33%" valign="top"><b><a href="https://nicolepeinture.imenebe.fr">Nicole Peinture</a></b></td>
-  </tr>
-  <tr>
-    <td valign="top">L'identité visuelle et un site en six sections, pensé d'abord pour le mobile, pour un pilote du McLaren Trophy Europe.</td>
-    <td valign="top">Une plateforme pour mannequins, agences et marques : trois rôles d'utilisateurs, authentification JWT, vérification des chevauchements de réservation.</td>
-    <td valign="top">Une galerie pour une artiste peintre : catalogue filtrable, loupe sur les toiles, espace privé pour gérer œuvres, commentaires et messages.</td>
-  </tr>
-  <tr>
-    <td valign="top"><sub>Next.js · Tailwind CSS · Figma</sub></td>
-    <td valign="top"><sub>React · Node.js · Express · JWT</sub></td>
-    <td valign="top"><sub>Next.js · Prisma · PostgreSQL</sub></td>
-  </tr>
-</table>
+**[Lucas Valkre](https://lucasvalkre.com)**<br>
+L'identité visuelle et un site en six sections, pensé d'abord pour le mobile, pour un pilote du McLaren Trophy Europe.<br>
+<sub>Next.js · Tailwind CSS · Figma</sub>
+
+**[Modaïka](https://lnkd.in/dvFeDM-i)**<br>
+Une plateforme pour mannequins, agences et marques : trois rôles d'utilisateurs, authentification JWT, vérification des chevauchements de réservation.<br>
+<sub>React · Node.js · Express · JWT</sub>
+
+**[Nicole Peinture](https://nicolepeinture.imenebe.fr)**<br>
+Une galerie pour une artiste peintre : catalogue filtrable, loupe sur les toiles, espace privé pour gérer œuvres, commentaires et messages.<br>
+<sub>Next.js · Prisma · PostgreSQL</sub>
 
 Les autres projets (Narval, Chef Vertu, GoatUp, CineZone, TrajetIA) sont détaillés sur [imenebe.fr](https://imenebe.fr).
 
 ## Boîte à outils
 
-<table>
-  <tr>
-    <td width="190" valign="middle"><b>Front-end</b></td>
-    <td valign="middle"><img src="https://skillicons.dev/icons?i=react" width="42" alt="React" title="React">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nextjs" width="42" alt="Next.js" title="Next.js">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js" width="42" alt="JavaScript" title="JavaScript">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=tailwind" width="42" alt="Tailwind CSS" title="Tailwind CSS"></td>
-  </tr>
-  <tr>
-    <td width="190" valign="middle"><b>Back-end et données</b></td>
-    <td valign="middle"><img src="https://skillicons.dev/icons?i=nodejs" width="42" alt="Node.js" title="Node.js">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=express" width="42" alt="Express" title="Express">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=postgres" width="42" alt="PostgreSQL" title="PostgreSQL">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=prisma" width="42" alt="Prisma" title="Prisma"></td>
-  </tr>
-  <tr>
-    <td width="190" valign="middle"><b>Outils</b></td>
-    <td valign="middle"><img src="https://skillicons.dev/icons?i=git" width="42" alt="Git" title="Git">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub" title="GitHub">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=vercel" width="42" alt="Vercel" title="Vercel"></td>
-  </tr>
-  <tr>
-    <td width="190" valign="middle"><b>Design</b></td>
-    <td valign="middle"><img src="https://skillicons.dev/icons?i=figma" width="42" alt="Figma" title="Figma">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ai" width="42" alt="Illustrator" title="Illustrator">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ps" width="42" alt="Photoshop" title="Photoshop"></td>
-  </tr>
-</table>
+**Front-end**<br>
+<img src="https://skillicons.dev/icons?i=react" width="42" alt="React" title="React">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nextjs" width="42" alt="Next.js" title="Next.js">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js" width="42" alt="JavaScript" title="JavaScript">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=tailwind" width="42" alt="Tailwind CSS" title="Tailwind CSS">
+
+**Back-end et données**<br>
+<img src="https://skillicons.dev/icons?i=nodejs" width="42" alt="Node.js" title="Node.js">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=express" width="42" alt="Express" title="Express">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=postgres" width="42" alt="PostgreSQL" title="PostgreSQL">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=prisma" width="42" alt="Prisma" title="Prisma">
+
+**Outils**<br>
+<img src="https://skillicons.dev/icons?i=git" width="42" alt="Git" title="Git">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub" title="GitHub">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=vercel" width="42" alt="Vercel" title="Vercel">
+
+**Design**<br>
+<img src="https://skillicons.dev/icons?i=figma" width="42" alt="Figma" title="Figma">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ai" width="42" alt="Illustrator" title="Illustrator">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ps" width="42" alt="Photoshop" title="Photoshop">
 
 ## En ce moment
 
-<table>
-  <tr>
-    <td width="190" valign="top"><b>Poste</b></td>
-    <td valign="top">Alternante développeuse Full Stack chez Tornade.io, dans une équipe agile de 4 personnes</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Titres</b></td>
-    <td valign="top">Concepteur Développeur d'Applications (RNCP niveau 6) · Master Manager de Projets Informatiques (RNCP niveau 7)</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Recherche</b></td>
-    <td valign="top"><b>Open to CDI 2027</b> · Lyon, Paris ou Provence-Alpes-Côte d'Azur, mobilité possible partout en France · Grands groupes et ESN</td>
-  </tr>
-</table>
+**Poste** : alternante développeuse Full Stack chez Tornade.io, dans une équipe agile de 4 personnes.
+
+**Titres** : Concepteur Développeur d'Applications (RNCP niveau 6) · Master Manager de Projets Informatiques (RNCP niveau 7).
+
+**Recherche** : **Open to CDI 2027** · Lyon, Paris ou Provence-Alpes-Côte d'Azur, mobilité possible partout en France · Grands groupes et ESN.
 
 ## Discutons de votre projet.
 
