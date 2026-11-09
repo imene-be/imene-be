@@ -23,22 +23,7 @@ Je dessine depuis l'âge de quatre ans : d'abord des mangas, puis du graphisme, 
 
 Je construis des applications React / Node.js, de la maquette Figma à la mise en ligne, en pensant chaque écran pour l'usage réel de ceux qui s'en servent. Mon regard d'illustratrice m'aide à soigner chaque interface, et mon Master Manager de Projets Informatiques m'apprend à cerner le besoin avant d'écrire la première ligne de code.
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <b>Développement</b><br><br>
-      React, Next.js, Node.js, de la maquette Figma à la mise en ligne.
-    </td>
-    <td width="33%" valign="top">
-      <b>Design</b><br><br>
-      UI/UX, identités visuelles, écrans pensés pour leur usage réel.
-    </td>
-    <td width="33%" valign="top">
-      <b>Illustration</b><br><br>
-      Mangas, graphisme et peinture.
-    </td>
-  </tr>
-</table>
+**Développeuse Full Stack React / Next.js / Node.js** · Apps web du Figma à la prod · UI/UX
 
 ## Sélection de projets
 
@@ -79,3 +64,14 @@ Alternante développeuse Full Stack chez Tornade.io, dans une équipe agile de 4
 ## Discutons de votre projet.
 
 bentifraouineimene@gmail.com · [LinkedIn](https://www.linkedin.com/in/imenebentifraouine/) · [imenebe.fr](https://imenebe.fr)
+
+<br>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imene-be/imene-be/main/footer-dark.svg">
+  <img src="https://raw.githubusercontent.com/imene-be/imene-be/main/footer-light.svg" alt="Imène Be, discutons de votre projet" width="100%">
+</picture>
+
+</div>
