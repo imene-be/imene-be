@@ -47,33 +47,15 @@ const imene = {
 
 ## Sélection de projets
 
-**[Lucas Valkre](https://lucasvalkre.com)**<br>
-L'identité visuelle et un site en six sections, pensé d'abord pour le mobile, pour un pilote du McLaren Trophy Europe.<br>
-<sub>Next.js · Tailwind CSS · Figma</sub>
-
-**[Modaïka](https://lnkd.in/dvFeDM-i)**<br>
-Une plateforme pour mannequins, agences et marques : trois rôles d'utilisateurs, authentification JWT, vérification des chevauchements de réservation.<br>
-<sub>React · Node.js · Express · JWT</sub>
-
-**[Nicole Peinture](https://nicolepeinture.imenebe.fr)**<br>
-Une galerie pour une artiste peintre : catalogue filtrable, loupe sur les toiles, espace privé pour gérer œuvres, commentaires et messages.<br>
-<sub>Next.js · Prisma · PostgreSQL</sub>
+<a href="https://lucasvalkre.com"><img src="https://raw.githubusercontent.com/imene-be/imene-be/main/card-lucas.svg" width="32%" alt="Lucas Valkre"></a>&nbsp;&nbsp;
+<a href="https://lnkd.in/dvFeDM-i"><img src="https://raw.githubusercontent.com/imene-be/imene-be/main/card-modaika.svg" width="32%" alt="Modaïka"></a>&nbsp;&nbsp;
+<a href="https://nicolepeinture.imenebe.fr"><img src="https://raw.githubusercontent.com/imene-be/imene-be/main/card-nicole.svg" width="32%" alt="Nicole Peinture"></a>
 
 Les autres projets (Narval, Chef Vertu, GoatUp, CineZone, TrajetIA) sont détaillés sur [imenebe.fr](https://imenebe.fr).
 
 ## Boîte à outils
 
-**Front-end**<br>
-<img src="https://skillicons.dev/icons?i=react" width="42" alt="React" title="React">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nextjs" width="42" alt="Next.js" title="Next.js">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js" width="42" alt="JavaScript" title="JavaScript">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=tailwind" width="42" alt="Tailwind CSS" title="Tailwind CSS">
-
-**Back-end et données**<br>
-<img src="https://skillicons.dev/icons?i=nodejs" width="42" alt="Node.js" title="Node.js">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=express" width="42" alt="Express" title="Express">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=postgres" width="42" alt="PostgreSQL" title="PostgreSQL">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=prisma" width="42" alt="Prisma" title="Prisma">
-
-**Outils**<br>
-<img src="https://skillicons.dev/icons?i=git" width="42" alt="Git" title="Git">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub" title="GitHub">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=vercel" width="42" alt="Vercel" title="Vercel">
-
-**Design**<br>
-<img src="https://skillicons.dev/icons?i=figma" width="42" alt="Figma" title="Figma">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ai" width="42" alt="Illustrator" title="Illustrator">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ps" width="42" alt="Photoshop" title="Photoshop">
+<img src="https://raw.githubusercontent.com/imene-be/imene-be/main/tools.svg" width="760" alt="Boîte à outils : React, Next.js, JavaScript, Tailwind CSS, Node.js, Express, PostgreSQL, Prisma, Git, GitHub, Vercel, Figma, Illustrator, Photoshop, Procreate">
 
 ## En ce moment
 
