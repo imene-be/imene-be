@@ -4,18 +4,17 @@
 
 <br>
 
-*« La perfection est surestimée, l'originalité est reine. »*
+<i>« La perfection est surestimée, l'originalité est reine. »</i>
 
-<br>
+<br><br>
 
 <a href="https://imenebe.fr"><img src="https://img.shields.io/badge/✦_Mon_portfolio-573A78?style=for-the-badge" alt="Portfolio"/></a>
 <a href="https://imenebe.fr/blog"><img src="https://img.shields.io/badge/✦_Carnet_de_bord-3D2659?style=for-the-badge" alt="Carnet de bord"/></a>
 <a href="https://www.linkedin.com/in/imenebentifraouine/"><img src="https://img.shields.io/badge/LinkedIn-573A78?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/imenebe.art"><img src="https://img.shields.io/badge/Instagram-3D2659?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 </div>
 
----
+<br>
 
 ## ✦ Tout a commencé avec un crayon
 
@@ -39,9 +38,28 @@ const imene = {
 
 ## ✦ Ce que je construis
 
-- **[Lucas Valkre](https://lucasvalkre.com)** : l'identité visuelle et un site en six sections, pensé d'abord pour le mobile, pour un pilote du McLaren Trophy Europe. Next.js, Tailwind CSS, Figma.
-- **[CineZone](https://github.com/imene-be/cinezone)** : une application avec authentification JWT, un back-office et l'API TMDB.
-- **[TrajetIA](https://github.com/imene-be/trajetia)** : une API Express et SQLite avec des données en temps réel.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://lucasvalkre.com">Lucas Valkre</a></h3>
+      L'identité visuelle et un site en six sections, pensé d'abord pour le mobile, pour un pilote du McLaren Trophy Europe.
+      <br><br>
+      <sub>Next.js · Tailwind CSS · Figma</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/imene-be/cinezone">CineZone</a></h3>
+      Une application avec authentification JWT, un back-office et l'API TMDB.
+      <br><br>
+      <sub>JavaScript · JWT · API TMDB</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/imene-be/trajetia">TrajetIA</a></h3>
+      Une API avec des données en temps réel.
+      <br><br>
+      <sub>Express · SQLite</sub>
+    </td>
+  </tr>
+</table>
 
 Les autres projets (une galerie pour une artiste peintre, Narval, Chef Vertu, GoatUp, Modaïka) sont détaillés sur **[imenebe.fr](https://imenebe.fr)**.
 
@@ -49,7 +67,7 @@ Les autres projets (une galerie pour une artiste peintre, Narval, Chef Vertu, Go
 
 - **Un carnet de bord « sans filtre »** : je raconte mes choix, mes doutes et ce qui a raté. [imenebe.fr/blog](https://imenebe.fr/blog)
 - **Un assistant IA** sur mon portfolio, qui connaît mon parcours et mes projets.
-- **Mes dessins** : mangas, illustrations et peintures, sur [Instagram](https://www.instagram.com/imenebe.art).
+- **Mes dessins** : mangas, illustrations et peintures, à retrouver sur mon portfolio.
 
 ## ✦ Ma boîte à outils
 
@@ -66,12 +84,10 @@ Les autres projets (une galerie pour une artiste peintre, Narval, Chef Vertu, Go
 - Titre Concepteur Développeur d'Applications (RNCP niveau 6), Master Manager de Projets Informatiques (RNCP niveau 7).
 - **Open to CDI 2027**, de préférence à Lyon, à Paris ou en Provence-Alpes-Côte d'Azur, mobilité possible partout en France.
 
-## ✦ Écrivez-moi
-
-bentifraouineimene@gmail.com · [LinkedIn](https://www.linkedin.com/in/imenebentifraouine/) · [imenebe.fr](https://imenebe.fr)
+<br>
 
 <div align="center">
 
-✦ Merci d'être passé par là ✦
+<img src="https://raw.githubusercontent.com/imene-be/imene-be/main/footer.svg" alt="Merci d'être passé par là" width="100%"/>
 
 </div>
