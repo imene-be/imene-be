@@ -47,14 +47,28 @@ const imene = {
 
 ## Sélection de projets
 
-**[Lucas Valkre](https://lucasvalkre.com)** : l'identité visuelle et un site en six sections, pensé d'abord pour le mobile, pour un pilote du McLaren Trophy Europe.<br>
-Next.js · Tailwind CSS · Figma
-
-**[Modaïka](https://lnkd.in/dvFeDM-i)** : une plateforme pour mannequins, agences et marques, avec trois rôles d'utilisateurs, l'authentification JWT et la vérification des chevauchements de réservation.<br>
-React · Node.js · Express · JWT
-
-**[Nicole Peinture](https://nicolepeinture.imenebe.fr)** : une galerie pour une artiste peintre, avec un catalogue filtrable, une loupe sur les toiles et un espace privé pour gérer œuvres, commentaires et messages.<br>
-Next.js · Prisma · PostgreSQL
+<table>
+  <tr>
+    <td width="33%" valign="top"><b>Lucas Valkre</b></td>
+    <td width="33%" valign="top"><b>Modaïka</b></td>
+    <td width="33%" valign="top"><b>Nicole Peinture</b></td>
+  </tr>
+  <tr>
+    <td valign="top">L'identité visuelle et un site en six sections, pensé d'abord pour le mobile, pour un pilote du McLaren Trophy Europe.</td>
+    <td valign="top">Une plateforme pour mannequins, agences et marques, avec trois rôles d'utilisateurs, l'authentification JWT et la vérification des chevauchements de réservation.</td>
+    <td valign="top">Une galerie pour une artiste peintre, avec un catalogue filtrable, une loupe sur les toiles et un espace privé pour gérer œuvres, commentaires et messages.</td>
+  </tr>
+  <tr>
+    <td valign="top">Next.js · Tailwind CSS · Figma</td>
+    <td valign="top">React · Node.js · Express · JWT</td>
+    <td valign="top">Next.js · Prisma · PostgreSQL</td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://lucasvalkre.com">Voir le projet</a></td>
+    <td valign="top"><a href="https://lnkd.in/dvFeDM-i">Voir le projet</a></td>
+    <td valign="top"><a href="https://nicolepeinture.imenebe.fr">Voir le projet</a></td>
+  </tr>
+</table>
 
 Les autres projets (Narval, Chef Vertu, GoatUp, CineZone, TrajetIA) sont détaillés sur [imenebe.fr](https://imenebe.fr).
 
