@@ -5,11 +5,11 @@
 </style>
 <line class="rule" x1="0" y1="0.5" x2="356" y2="0.5" stroke-width="1"/>
 <line x1="0" y1="1.5" x2="56" y2="1.5" stroke="#573A78" stroke-width="3"/>
-<text class="ink" x="0" y="52" font-family="Georgia, serif" font-size="25" font-weight="700">Lucas Valkre</text>
-<text class="mut" x="0" y="90" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="300">L&#x27;identité visuelle et un site en six sections,</text>
-<text class="mut" x="0" y="112" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="300">pensé d&#x27;abord pour le mobile, pour un pilote du</text>
-<text class="mut" x="0" y="134" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="300">McLaren Trophy Europe.</text>
-<text class="acc" x="0" y="222" font-family="Helvetica, Arial, sans-serif" font-size="13" letter-spacing="0.5">Next.js · Tailwind CSS · Figma</text>
+<text class="ink" x="0" y="52" font-family="Hanken Grotesk, Helvetica, Arial, sans-serif" font-size="25" font-weight="600">Lucas Valkre</text>
+<text class="mut" x="0" y="90" font-family="Hanken Grotesk, Helvetica, Arial, sans-serif" font-size="14" font-weight="300">L&#x27;identité visuelle et un site en six sections,</text>
+<text class="mut" x="0" y="112" font-family="Hanken Grotesk, Helvetica, Arial, sans-serif" font-size="14" font-weight="300">pensé d&#x27;abord pour le mobile, pour un pilote du</text>
+<text class="mut" x="0" y="134" font-family="Hanken Grotesk, Helvetica, Arial, sans-serif" font-size="14" font-weight="300">McLaren Trophy Europe.</text>
+<text class="acc" x="0" y="222" font-family="Hanken Grotesk, Helvetica, Arial, sans-serif" font-size="13" letter-spacing="0.5">Next.js · Tailwind CSS · Figma</text>
 <line class="rule" x1="0" y1="242" x2="356" y2="242" stroke-width="1"/>
-<text class="acc" x="0" y="272" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="300" letter-spacing="3">VOIR LE PROJET  →</text>
+<text class="acc" x="0" y="272" font-family="Hanken Grotesk, Helvetica, Arial, sans-serif" font-size="12" font-weight="300" letter-spacing="3">VOIR LE PROJET  →</text>
 </svg>
