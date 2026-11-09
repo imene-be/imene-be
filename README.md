@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/imene-be/imene-be/main/banner-light.svg" alt="Imène Be, développeuse Full Stack, illustratrice et designer UI/UX" width="100%">
 </picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=3000&pause=1200&center=true&vCenter=true&color=7A5BA0&width=700&height=45&lines=D%C3%A9veloppeuse%20Full%20Stack;React%20%2F%20Next.js%20%2F%20Node.js;Du%20Figma%20%C3%A0%20la%20prod;Open%20to%20CDI%202027" alt="Développeuse Full Stack, React / Next.js / Node.js, du Figma à la prod, open to CDI 2027">
+<img src="https://readme-typing-svg.demolab.com?font=Hanken+Grotesk&size=22&duration=3000&pause=1200&center=true&vCenter=true&color=7A5BA0&width=700&height=45&lines=D%C3%A9veloppeuse%20Full%20Stack;React%20%2F%20Next.js%20%2F%20Node.js;Du%20Figma%20%C3%A0%20la%20prod;Open%20to%20CDI%202027" alt="Développeuse Full Stack, React / Next.js / Node.js, du Figma à la prod, open to CDI 2027">
 
 <b>Développeuse Full Stack React / Next.js / Node.js</b> · Apps web du Figma à la prod · UI/UX
 
