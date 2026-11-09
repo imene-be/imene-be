@@ -47,21 +47,21 @@ const imene = {
       <sub>Next.js · Tailwind CSS · Figma</sub>
     </td>
     <td width="33%" valign="top">
-      <h3><a href="https://github.com/imene-be/cinezone">CineZone</a></h3>
-      Une application avec authentification JWT, un back-office et l'API TMDB.
+      <h3><a href="https://lnkd.in/dvFeDM-i">Modaïka</a></h3>
+      Une plateforme pour mannequins, agences et marques : trois rôles d'utilisateurs, authentification JWT et vérification des chevauchements de réservation.
       <br><br>
-      <sub>JavaScript · JWT · API TMDB</sub>
+      <sub>React · Node.js · Express · JWT</sub>
     </td>
     <td width="33%" valign="top">
-      <h3><a href="https://github.com/imene-be/trajetia">TrajetIA</a></h3>
-      Une API avec des données en temps réel.
+      <h3><a href="https://nicolepeinture.imenebe.fr">Nicole Peinture</a></h3>
+      Une galerie pour une artiste peintre : catalogue filtrable, loupe sur les toiles et espace privé pour gérer œuvres, commentaires et messages.
       <br><br>
-      <sub>Express · SQLite</sub>
+      <sub>Next.js · Prisma · PostgreSQL</sub>
     </td>
   </tr>
 </table>
 
-Les autres projets (une galerie pour une artiste peintre, Narval, Chef Vertu, GoatUp, Modaïka) sont détaillés sur **[imenebe.fr](https://imenebe.fr)**.
+Les autres projets (Narval, Chef Vertu, GoatUp, CineZone, TrajetIA) sont détaillés sur **[imenebe.fr](https://imenebe.fr)**.
 
 ## ✦ Mon univers
 
