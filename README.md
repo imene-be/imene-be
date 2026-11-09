@@ -69,22 +69,25 @@ Les autres projets (Narval, Chef Vertu, GoatUp, CineZone, TrajetIA) sont détail
 
 ## Boîte à outils
 
-<p>
-<b>Front-end</b><br>
-<img src="https://img.shields.io/badge/React-573A78?style=flat-square&logo=react&logoColor=white" alt="React"> <img src="https://img.shields.io/badge/Next.js-573A78?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/Tailwind_CSS-573A78?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/JavaScript-573A78?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
-</p>
-<p>
-<b>Back-end et données</b><br>
-<img src="https://img.shields.io/badge/Node.js-573A78?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Express-573A78?style=flat-square&logo=express&logoColor=white" alt="Express"> <img src="https://img.shields.io/badge/PostgreSQL-573A78?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Prisma-573A78?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
-</p>
-<p>
-<b>Outils</b><br>
-<img src="https://img.shields.io/badge/Git-573A78?style=flat-square&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-573A78?style=flat-square&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/Vercel-573A78?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
-</p>
-<p>
-<b>Design</b><br>
-<img src="https://img.shields.io/badge/Figma-573A78?style=flat-square&logo=figma&logoColor=white" alt="Figma"> <img src="https://img.shields.io/badge/Illustrator-573A78?style=flat-square" alt="Illustrator"> <img src="https://img.shields.io/badge/Photoshop-573A78?style=flat-square" alt="Photoshop"> <img src="https://img.shields.io/badge/Procreate-573A78?style=flat-square" alt="Procreate">
-</p>
+<div align="center">
+
+**Front-end**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind&perline=8" alt="React, Next.js, JavaScript, Tailwind CSS">
+
+**Back-end et données**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma&perline=8" alt="Node.js, Express, PostgreSQL, Prisma">
+
+**Outils**
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel&perline=8" alt="Git, GitHub, Vercel">
+
+**Design**
+
+<img src="https://skillicons.dev/icons?i=figma,ai,ps&perline=8" alt="Figma, Illustrator, Photoshop">
+
+</div>
 
 ## En ce moment
 
