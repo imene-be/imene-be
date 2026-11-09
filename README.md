@@ -47,13 +47,13 @@ const imene = {
 
 ## Sélection de projets
 
-**[Lucas Valkre](https://lucasvalkre.com)** : l'identité visuelle et un site en six sections, pensé d'abord pour le mobile, pour un pilote du McLaren Trophy Europe.
+**[Lucas Valkre](https://lucasvalkre.com)** : l'identité visuelle et un site en six sections, pensé d'abord pour le mobile, pour un pilote du McLaren Trophy Europe.<br>
 Next.js · Tailwind CSS · Figma
 
-**[Modaïka](https://lnkd.in/dvFeDM-i)** : une plateforme pour mannequins, agences et marques, avec trois rôles d'utilisateurs, l'authentification JWT et la vérification des chevauchements de réservation.
+**[Modaïka](https://lnkd.in/dvFeDM-i)** : une plateforme pour mannequins, agences et marques, avec trois rôles d'utilisateurs, l'authentification JWT et la vérification des chevauchements de réservation.<br>
 React · Node.js · Express · JWT
 
-**[Nicole Peinture](https://nicolepeinture.imenebe.fr)** : une galerie pour une artiste peintre, avec un catalogue filtrable, une loupe sur les toiles et un espace privé pour gérer œuvres, commentaires et messages.
+**[Nicole Peinture](https://nicolepeinture.imenebe.fr)** : une galerie pour une artiste peintre, avec un catalogue filtrable, une loupe sur les toiles et un espace privé pour gérer œuvres, commentaires et messages.<br>
 Next.js · Prisma · PostgreSQL
 
 Les autres projets (Narval, Chef Vertu, GoatUp, CineZone, TrajetIA) sont détaillés sur [imenebe.fr](https://imenebe.fr).
