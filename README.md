@@ -2,22 +2,16 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imene-be/imene-be/main/banner-dark.svg">
-  <img src="https://raw.githubusercontent.com/imene-be/imene-be/main/banner-light.svg" alt="Imène Be, développeuse Full Stack, illustratrice et designer UI/UX" width="100%">
+  <img src="https://raw.githubusercontent.com/imene-be/imene-be/main/banner-light.svg" alt="Imène Bentifraouine, développeuse Full Stack React, Next.js et Node.js, open to CDI 2027" width="100%">
 </picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Hanken+Grotesk&size=22&duration=3000&pause=1200&center=true&vCenter=true&color=7A5BA0&width=700&height=45&lines=D%C3%A9veloppeuse%20Full%20Stack;React%20%2F%20Next.js%20%2F%20Node.js;Du%20Figma%20%C3%A0%20la%20prod;Open%20to%20CDI%202027" alt="Développeuse Full Stack, React / Next.js / Node.js, du Figma à la prod, open to CDI 2027">
+<b>Développeuse Full Stack React / Next.js / Node.js</b> · Apps web du Figma à la prod · <b>Open to CDI 2027</b>
 
-<b>Développeuse Full Stack React / Next.js / Node.js</b> · Apps web du Figma à la prod · UI/UX
-
-<i>Je crée avec sens, dessine avec intuition et développe avec exigence.</i>
-
-<br>
+Lyon, Paris ou Provence-Alpes-Côte d'Azur · alternante chez Tornade.io
 
 <a href="https://imenebe.fr"><img src="https://img.shields.io/badge/%E2%9C%A6_Visiter_mon_portfolio-573A78?style=for-the-badge" alt="Visiter mon portfolio"></a>
 <a href="https://www.linkedin.com/in/imenebentifraouine/"><img src="https://img.shields.io/badge/LinkedIn-3D2659?style=for-the-badge" alt="LinkedIn"></a>
 <a href="mailto:bentifraouineimene@gmail.com"><img src="https://img.shields.io/badge/E--mail-3D2659?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
-
-<a href="https://imenebe.fr/blog">Carnet de bord</a>
 
 </div>
 
@@ -25,64 +19,33 @@
 
 ## Développeuse dans l'exécution, designer dans la pensée.
 
-Je dessine depuis l'âge de quatre ans : mangas, graphisme, peinture. L'œil est venu bien avant le code.
+Je dessine depuis l'âge de quatre ans : l'œil est venu bien avant le code. Aujourd'hui, chaque écran est dessiné d'abord dans Figma, pensé pour celui qui s'en sert, puis écrit en React, Next.js et Node.js jusqu'à la mise en ligne.
 
-Aujourd'hui, je construis des applications web comme on compose une image. Chaque écran est dessiné d'abord dans Figma, pensé pour celui qui s'en sert, puis écrit en React, Next.js et Node.js jusqu'à la mise en ligne.
-
-Mon regard d'illustratrice sait ce qu'on peut laisser de côté pour que l'essentiel demeure. Ma formation en gestion de projets informatiques cerne le besoin avant la première ligne de code.
-
-```ts
-const imene = {
-  metier: "Développeuse Full Stack React / Next.js / Node.js",
-  commenceAvec: "un crayon, à quatre ans",
-  parcours: ["manga", "graphisme", "peinture", "code"],
-  statut: "Open to CDI 2027",
-  cherche: ["grands groupes", "ESN"],
-  convictions: [
-    "Un beau site ne suffit pas : il faut savoir quoi laisser de côté.",
-    "Un résultat s'obtient en quelques prompts, le chemin reste à raconter.",
-  ],
-};
-```
-
-## Sélection de projets
+## Trois projets à voir
 
 <table>
   <tr>
-    <td width="33%" valign="top"><b>Lucas Valkre</b></td>
-    <td width="33%" valign="top"><b>Modaïka</b></td>
-    <td width="33%" valign="top"><b>Nicole Peinture</b></td>
+    <td width="33%" valign="top"><b><a href="https://github.com/imene-be/cinezone">CineZone</a></b></td>
+    <td width="33%" valign="top"><b><a href="https://github.com/imene-be/trajetia">TrajetIA</a></b></td>
+    <td width="33%" valign="top"><b><a href="https://lucasvalkre.com">Lucas Valkre</a></b></td>
   </tr>
   <tr>
-    <td valign="top">L'identité visuelle et un site en six sections, pensé d'abord pour le mobile, pour un pilote du McLaren Trophy Europe.</td>
-    <td valign="top">Une plateforme pour mannequins, agences et marques, avec trois rôles d'utilisateurs, l'authentification JWT et la vérification des chevauchements de réservation.</td>
-    <td valign="top">Une galerie pour une artiste peintre, avec un catalogue filtrable, une loupe sur les toiles et un espace privé pour gérer œuvres, commentaires et messages.</td>
+    <td valign="top">Plateforme de films full-stack : auth JWT, back-office, import TMDB, accessibilité RGAA, tests et CI.</td>
+    <td valign="top">Appli React, Express et SQLite sur les horaires et retards en temps réel du réseau Ilévia.</td>
+    <td valign="top">Identité et site Next.js en production pour un pilote du McLaren Trophy Europe, pensé d'abord pour le mobile.</td>
   </tr>
   <tr>
+    <td valign="top">React · Express · Sequelize · Docker</td>
+    <td valign="top">React · Express · SQLite · GTFS</td>
     <td valign="top">Next.js · Tailwind CSS · Figma</td>
-    <td valign="top">React · Node.js · Express · JWT</td>
-    <td valign="top">Next.js · Prisma · PostgreSQL</td>
-  </tr>
-  <tr>
-    <td valign="top"><a href="https://lucasvalkre.com">Voir le projet</a></td>
-    <td valign="top"><a href="https://lnkd.in/dvFeDM-i">Voir le projet</a></td>
-    <td valign="top"><a href="https://nicolepeinture.imenebe.fr">Voir le projet</a></td>
   </tr>
 </table>
 
-Les autres projets (Narval, Chef Vertu, GoatUp, CineZone, TrajetIA) sont détaillés sur [imenebe.fr](https://imenebe.fr).
+Aussi : [Modaïka](https://modaika.imenebe.fr), [Nicole Peinture](https://nicolepeinture.imenebe.fr) (Next.js, Prisma, PostgreSQL), [Chef Vertu](https://chefvertu.imenebe.fr). Tous mes projets sont sur [imenebe.fr](https://imenebe.fr).
 
 ## Boîte à outils
 
 <img src="https://raw.githubusercontent.com/imene-be/imene-be/main/tools.svg" width="760" alt="Boîte à outils : React, Next.js, JavaScript, Tailwind CSS, Node.js, Express, PostgreSQL, Prisma, Git, GitHub, Vercel, Figma, Illustrator, Photoshop, Procreate">
-
-## En ce moment
-
-**Poste** : alternante développeuse Full Stack chez Tornade.io, dans une équipe agile de 4 personnes.
-
-**Titres** : Concepteur Développeur d'Applications (RNCP niveau 6) · Master Manager de Projets Informatiques (RNCP niveau 7).
-
-**Recherche** : **Open to CDI 2027** · Lyon, Paris ou Provence-Alpes-Côte d'Azur, mobilité possible partout en France · Grands groupes et ESN.
 
 ## Discutons de votre projet.
 
@@ -94,7 +57,7 @@ bentifraouineimene@gmail.com · [LinkedIn](https://www.linkedin.com/in/imenebent
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imene-be/imene-be/main/footer-dark.svg">
-  <img src="https://raw.githubusercontent.com/imene-be/imene-be/main/footer-light.svg" alt="Imène Be, discutons de votre projet" width="100%">
+  <img src="https://raw.githubusercontent.com/imene-be/imene-be/main/footer-light.svg" alt="Imène Bentifraouine, discutons de votre projet" width="100%">
 </picture>
 
 </div>
